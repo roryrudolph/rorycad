@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 222AMVBAR
+D Tactile Momentary Push Button Switch, Surface Mount
+K SPST, button, switch, tactile, momentary
+$ENDCMP
+#
+#End Doc Library
